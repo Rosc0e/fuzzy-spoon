@@ -4,6 +4,9 @@ body {
 }
 
 h1 {
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: red;
+   font-stretch: 150%;
    display: flex;
    text-align: center;
    margin: 0 auto;
